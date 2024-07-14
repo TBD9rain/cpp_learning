@@ -1,0 +1,17 @@
+# ignore shortlink files
+*.lnk
+
+
+# ignore temperory files
+
+# vim
+*~
+*.swp
+
+# verible
+verible.filelist
+
+# windows office
+~$*
+
+
